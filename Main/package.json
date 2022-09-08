@@ -1,0 +1,27 @@
+{
+  "name": "team-profile-generator-main",
+  "version": "1.0.0",
+  "description": "team profile generator for uc berkerly module 10",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Collzbaba/Team-Profile-Generator.git"
+  },
+  "author": "blessed adodo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Collzbaba/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Collzbaba/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "path": "^0.12.7"
+  }
+}

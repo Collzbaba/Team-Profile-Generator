@@ -36,4 +36,7 @@ THEN I exit the application, and the HTML is generated
 ## Screenshot:
 ![Team-Profile-Generator](./images/Team-profile-card.png)
 
+## Video:
+[live-url](https://vimeo.com/754090888)
+
 

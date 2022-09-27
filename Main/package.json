@@ -8,8 +8,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "npm test "
-  },
+    "test": "npm test ",
+    "start": "node index.js"},
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/Collzbaba/Team-Profile-Generator.git"
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Collzbaba/Team-Profile-Generator#readme",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "inquirer": "^8.0.0",
     "path": "^0.12.7"
   }

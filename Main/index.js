@@ -5,6 +5,7 @@ const Intern = require("./lib/Intern");
 const path = require("path");
 const inquirer = require("inquirer");
 // import inquirer from "inquirer";
+const fs = require("fs");
 
 
 
@@ -40,9 +41,13 @@ employeeType = () => {
         // }
         switch (choice.role) {
             case 'Intern':
+                console.log(choice.role);
                 addIntern();
+                break;
             case 'Engineer':
+                console.log("addengineer");
                 addEngineer();
+                break;
             default:
                 break;
         }

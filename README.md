@@ -31,12 +31,14 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 ## URL: 
-[Live-Url](https://collzbaba.github.io/Team-Profile-Generator) 
+
+[Url](https://collzbaba.github.io/Team-Profile-Generator) 
 
 ## Screenshot:
 [Team-Profile-Generator](./images/Team-profile-card.png)
+ [Team-Profile-Generator]:./images/Team-profile-card.png
 
 ## Video:
-[live-url](https://vimeo.com/754090888)
+[Url](https://vimeo.com/754090888)
 
 

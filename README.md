@@ -32,7 +32,7 @@ THEN I exit the application, and the HTML is generated
 
 ## URL: 
 
-https://collzbaba.github.io/Team-Profile-Generator
+file:///Users/blessedadodo/Documents/projects/Team-Profile-Generator-main/Team-Profile-Generator/Main/index.html
 
 ## Screenshot:
 ![Team-Profile-Generator](./images/Team-profile-card.png)

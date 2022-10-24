@@ -31,8 +31,8 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 ## URL: 
+https://github.com/Collzbaba/Team-Profile-Generator
 
-file:///Users/blessedadodo/Documents/projects/Team-Profile-Generator-main/Team-Profile-Generator/Main/index.html
 
 ## Screenshot:
 ![Team-Profile-Generator](./images/Team-profile-card.png)

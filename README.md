@@ -1,14 +1,19 @@
 # Team-Profile-Generator
+ ### License
+  ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
+  https://choosealicense.com/licenses/isc/
+  ***
 
 # Description:
 This project is to build a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. As testing is key to making code maintainable, a wiritten  unit test for every part of the code and ensure that it passes each test is required. Also, because this application won’t be deployed, it is required that a link to a walkthrough video that demonstrates its functionality and all of the tests passing.
+***
 
 ## User Story summaries that, 
 
 AS A manager
 I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
-```
+****
 
 ## Usage:
 
@@ -29,17 +34,19 @@ WHEN I select the intern option
 THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
+***
 
 ## URL: 
 https://github.com/Collzbaba/Team-Profile-Generator
+***
 
 
 ## Screenshot:
-![Team-Profile-Generator](./images/Team-profile-card.png)
-https://vimeo.com/754090888
-
+![screenshots](./Main/images/Team-profile-card.png)
+***
 
 ## Video:
 https://vimeo.com/754090888
+***
 
 
